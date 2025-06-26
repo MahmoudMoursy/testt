@@ -1,0 +1,9 @@
+{
+  "functions": {
+    "auth:signIn": "auth.ts",
+    "auth:signOut": "auth.ts",
+    "auth:store": "auth.ts",
+    "auth:isAuthenticated": "auth.ts",
+    "loggedInUser": "auth.ts"
+  }
+}
